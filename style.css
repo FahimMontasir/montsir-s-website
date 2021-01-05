@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+}
+
+.intro {
+    width: 30%;
+    float: left;
+  
+   margin-left: 15%;
+}
+.top-block {
+    height: 474px;
+    background-image: url("images/bg-black.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.top-img {
+    width: 40%;
+    float: right ;
+
+}
+img {
+    width: 100%;
+    
+}
+h1 {
+    font-size: 50px;
+}
+#cl-highlight {
+color: orange;
+font-size: 30px;
+}
+p {
+    color: black;
+    /* background-color: rgb(243, 239, 239); */
+    padding: 3px;
+}
+.link-one {
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: white;
+    box-shadow: 5px 10px 30px grey;
+    border-radius: 4px;
+}
+.link-two {
+    background-color:black;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: white;
+    box-shadow: 5px 10px 30px grey;
+    border-radius: 4px;
+    margin-left: 4px;
+}
+.middle-box {
+    height: 300px;
+    background-image: url("images/bg-black2.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.single-box {
+    width: 20%;
+    float: left;
+    /* margin: 20px 0 0 2px; */
+    box-shadow: 5px 10px 40px orange;
+    background-color: lightgray;
+    margin-left: 60px;
+    padding-left: 15px;
+    border-radius: 3px;
+    /* position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1; */
+}
+.single-box2 {
+    width: 20%;
+    float: right;
+    /* margin: 20px 0 0 2px; */
+    box-shadow: 5px 10px 40px orange;
+    background-color: lightgray;
+    position: absolute;
+    left: 739px;
+    top: 474px;
+    z-index: 1;
+    padding-left: 15px;
+    border-radius: 3px;
+}
+.bottom-part {
+    height: 400px;
+}
+.bottom-left {
+    width: 40%;
+    float: left;
+}
+.bottom-right {
+    width: 30%;
+    float: right;
+    position: absolute;
+    top: 842px;
+    left: 639px;
+    z-index: 1;
+}
+h2 {
+    font-size: 40px;
+    color: orange;
+}
+h3 {
+    font-size: 25px;
+}
+#footeri {
+    color: orange;
+    margin-top: 85px;
+}
